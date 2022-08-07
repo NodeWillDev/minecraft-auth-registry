@@ -1,0 +1,5 @@
+name: Auth
+author: Will
+version: 1
+api: 4.6.0
+main: auth\Main

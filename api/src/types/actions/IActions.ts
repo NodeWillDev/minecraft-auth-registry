@@ -1,0 +1,1 @@
+type IActions = 'byName' | 'byEmail' | 'byNick' | 'all'
