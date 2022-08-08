@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 👨‍💻 **minecraft-auth-registry**
 
 <br>
