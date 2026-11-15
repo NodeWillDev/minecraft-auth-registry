@@ -1,5 +1,7 @@
 # 👨‍💻 **minecraft-auth-registry**
 
+bash grab.sh  # fetch runtime deps
+
 <br>
 
 ## Features
